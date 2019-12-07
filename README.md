@@ -1,0 +1,1 @@
+This code implements an approximate gazetteer for GATE, able to handle texts with noise and errors.
